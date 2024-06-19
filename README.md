@@ -23,7 +23,7 @@ Then, place the lines below in the doc :
 #!/bin/bash
 
 WEBHOOK_URL="https://discord.com/api/webhooks/url_to_your_webhook"
-# To get a user mentionned (if wanted)
+# To get a user mentionned (if wanted, if not just erase everything between the "")
 DISCORDUSER="<@YourDiscordIDhere>"
 
 # Handle server start, stop, and restart
