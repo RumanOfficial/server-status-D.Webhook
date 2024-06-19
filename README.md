@@ -38,7 +38,7 @@ else
     exit 1
 fi
 
-# Send the webhook
+# Send the webhook (Do NOT edit!)
 curl -X POST -H 'Content-Type: application/json' -d "$PAYLOAD" "$WEBHOOK_URL"
 ```
 To save the file, you'll have to do this key combination : `CTRL + X`, and then when it request the name, just do `Y`.
