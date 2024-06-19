@@ -1,5 +1,5 @@
 # Get your Linux server's status on Discord
-This is a small but usefull script to get your Linux server's status (start, stop and reboot) on Discord via a webhook.
+This is a small but useful script to get your Linux server's status (start, stop and reboot) on Discord via a webhook.
 
 ***⚠️ ONLY TESTED ON UBUNTU 24.04 LTS !*** 
 
